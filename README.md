@@ -19,7 +19,7 @@
 ---
 
 ## Building Locally
-Future Operating System (Linux Based OS).  Beta Test for Origin Omnimedia company
+Future Operating System (Linux Based OS).  Beta Test for Origin Omnimedia company.
 As Origin OS is built with the Debian version of `live-build`, not the Ubuntu patched version, it's easiest to build an elementary .iso in a Debian VM or container. This prevents messing up your host system too.
 
 The following examples assume you have Docker correctly installed and set up, and that your current working directory is this repo. When done, your image will be in the `builds` folder.
