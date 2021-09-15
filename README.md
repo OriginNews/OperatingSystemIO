@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://elementary.io" align="center">
     <center align="center">
-      <img src="https://raw.githubusercontent.com/elementary/brand/master/logomark-black.png" alt="elementary" align="center">
+  
     </center>
   </a>
   <br>
